@@ -1,0 +1,21 @@
+p{color: red;}  
+
+#navb{
+    display: flex;
+    padding-right: 20px;
+}
+
+#navb h3{
+    padding-right: 20px;
+}
+#navb2{
+    padding-left: 700px;
+    padding-bottom: 100px;
+}
+
+#nav {
+    display: flex;
+}
+#logo{
+    display: flex;
+}
